@@ -33,6 +33,11 @@ export default function Home() {
         />
 
         <Button variant="link">WEB Package Com ShadCN</Button>
+        <Button variant="default">WEB Package Com ShadCN</Button>
+        <Button variant="destructive">WEB Package Com ShadCN</Button>
+        <Button variant="ghost">WEB Package Com ShadCN</Button>
+        <Button variant="outline">WEB Package Com ShadCN</Button>
+        <Button variant="secondary">WEB Package Com ShadCN</Button>
       </main>
     </div>
   );
